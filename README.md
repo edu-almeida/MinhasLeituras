@@ -16,8 +16,6 @@ Este projeto foi construido em:
 Baixando esse repositório, não é necessária nenhuma aplicação mais avançada como IDEs ou conhecimento em prompts. O projeto
 rodará no seu navegador padrão ao clicar no arquivo index.html da página. Os arquivos da lista não são persistentes, ao fechar a guia não estarão mais disponíveis. A aplicação não verifica coesões, redundância ou veracidade de dados ou links infromados.
 
-## Utilizando
-
 ## Ambiente de programação
 Clone o projeto caso queira adapta-lo ou usar em ambiente de desenvolvimento.
 
