@@ -20,7 +20,7 @@ rodará no seu navegador padrão ao clicar no arquivo index.html da página. Os 
 Clone o projeto caso queira adapta-lo ou usar em ambiente de desenvolvimento.
 
 ```sh
-https://edu-almeida.github.io/QualAnime/
+https://edu-almeida.github.io/MinhasLeituras/
 ```
 
 
